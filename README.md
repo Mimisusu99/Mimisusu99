@@ -7,10 +7,10 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=mimisusu99&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mimisusu99&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
 </a>
 <!---
 Mimisusu99/Mimisusu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
