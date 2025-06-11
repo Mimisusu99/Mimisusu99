@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mimisusu99
 - 👀 I’m interested in ACGN
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology
 - 📫 How to reach me ...
 - 😄 Pronouns: Experimentalist/Milkbox
 - ⚡ Fun fact: ...
