@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mimisusu99
 - 👀 I’m interested in ACGN
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology
 - 📫 How to reach me ...
 - 😄 Pronouns: Experimentalist/Milkbox
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 1 + 1 = 2
 
 <table>
   <tr>
