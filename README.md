@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mimisusu99
 - 👀 I’m interested in ACGN
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology
 - 📫 How to reach me ...
 - 😄 Pronouns: Experimentalist/Milkbox
