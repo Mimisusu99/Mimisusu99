@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mimisusu99
-- 👀 I’m interested in ACGN
+- 👀 I’m interested in ACGN, just interested in machine learning
 - 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology
 - 📫 How to reach me ...
