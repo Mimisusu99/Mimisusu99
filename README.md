@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api?username=mimisusu99&show_icons=true&theme=transparent" />
+      <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api?username=mimisusu99&show_icons=true&include_all_commits=true&theme=transparent" />
     </a></td>
     <td><a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
