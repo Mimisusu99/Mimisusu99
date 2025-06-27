@@ -2,7 +2,7 @@
 - 👀 I’m interested in ACGN, just interested in machine learning
 - 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology
-- 📫 How to reach me ...
+- 📫 How to reach me just contact me here
 - 😄 Pronouns: Experimentalist/Milkbox
 - ⚡ Fun fact: 1 + 1 = 2
 
@@ -11,7 +11,7 @@
     <td><a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api?username=mimisusu99&show_icons=true&theme=transparent" />
     </a></td>
-    <td><a href="https://github.com/anuraghazra/convoychat">
+    <td><a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
     </a></td>
   </tr>
