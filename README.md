@@ -6,7 +6,7 @@
 - 😄 Pronouns: Experimentalist/Milkbox
 - ⚡ Fun fact: 1 + 1 = 2
 
-<table>
+<!--- <table>
   <tr>
     <td><a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api?username=mimisusu99&show_icons=true&include_all_commits=true&theme=transparent" />
@@ -15,7 +15,14 @@
       <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=20&card_width=320&show_icons=true&theme=transparent" />
     </a></td>
   </tr>
-</table>
+</table> --->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api?username=mimisusu99&card_width=500&show_icons=true&include_all_commits=true&theme=transparent" />
+  </a><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=20&card_width=500&show_icons=true&theme=transparent" />
+  </a>
 <!---
 Mimisusu99/Mimisusu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
