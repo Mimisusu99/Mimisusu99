@@ -21,7 +21,7 @@
       <img height=200 align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api?username=mimisusu99&card_width=500&show_icons=true&include_all_commits=true&theme=transparent" />
   </a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api/top-langs?username=mimisusu99&layout=compact&langs_count=20&card_width=500&show_icons=true&theme=transparent" />
+      <img align="center" src="https://github-readme-stats-mimisusu99s-projects.vercel.app/api/top-langs?username=mimisusu99&layout=donut-vertical&langs_count=10&card_width=500&show_icons=true&theme=transparent" />
   </a>
 <!---
 Mimisusu99/Mimisusu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
