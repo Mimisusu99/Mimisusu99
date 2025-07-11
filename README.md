@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mimisusu99
 - 👀 I’m interested in ACGN, electronics, microcontroller, and machine learning
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 I’m currently learning Laravel Framework and Live2D
 - 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology
 - 📫 How to reach me just contact me here
 - 😄 Pronouns: Experimentalist/Milkbox
