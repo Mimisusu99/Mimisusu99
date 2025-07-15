@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Mimisusu99
+ _   _      _ _           __        __         _     _ _      ___ _                __  __ _           _                      ___   ___  
+| | | | ___| | | ___      \ \      / /__  _ __| | __| | |    |_ _( )_ __ ___      |  \/  (_)_ __ ___ (_)___ _   _ ___ _   _ / _ \ / _ \ 
+| |_| |/ _ \ | |/ _ \      \ \ /\ / / _ \| '__| |/ _` | |     | ||/| '_ ` _ \     | |\/| | | '_ ` _ \| / __| | | / __| | | | (_) | (_) |
+|  _  |  __/ | | (_) |      \ V  V / (_) | |  | | (_| |_|     | |  | | | | | |    | |  | | | | | | | | \__ \ |_| \__ \ |_| |\__, |\__, |
+|_| |_|\___|_|_|\___/        \_/\_/ \___/|_|  |_|\__,_(_)    |___| |_| |_| |_|    |_|  |_|_|_| |_| |_|_|___/\__,_|___/\__,_|  /_/   /_/ 
+
 - 👀 I’m interested in ACGN, electronics, microcontroller, sbc, and machine learning
 - 🌱 I’m currently learning Laravel Framework and Live2D
 - 💞️ I’m looking to collaborate on ACGN/Pop-culture stuff integration with technology probably AI, AR, VR
